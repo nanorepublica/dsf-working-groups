@@ -17,7 +17,7 @@ Delegated responsibilities:
 - Management of the djangoproject.com website content and other marketing collateral relating to fundraising
 
 
-## Initial membership
+## Current membership
 
 - Chair: Thibaud Colas
 - Co-Chair: Priya Pahwa
@@ -25,11 +25,12 @@ Delegated responsibilities:
 - Other members:
   - Tom Carrick
   - Sarah Abderemane
-  - Stephanie Goulet
   - Chris Adams
   - Catherine Holmes
   - Abigail Afi Gbadago
   - Eliana Rosselli
+  - Ryan Cheley
+  - Jeff Triplett
 
 ## Future membership
 
