@@ -30,7 +30,7 @@ Upon adoption of this new charter, the Board will issue an open call for members
 
 The board liaison will act as chair through this transition, util the full membership is approved and all roles filled out.
 
-## Members
+## Membership
 
 - Chair: Tom Carrick
 - Co-Chair: TBD
