@@ -38,7 +38,7 @@ Ultimately, the information that needs to be in the charter is:
   - What powers are you asking the board to delegate to you?
   - What actions are you proposing the WG be allowed to take directly?
   - Which actions will the WG take back to the Board for votes?
-- **Initial membership** - who will be in this working group when it's first created?
+- **Membership** - who will be in this working group when it's first created?
   - **Board of liaison** - the person will be the bridge between the DSF board and the working group. It will be someone who will keep the vision of the board in the working group and have the same rights as a member of the working group.
   - **Steering Council liaison** - the person will be the bridge between the Steering Council and the working group. It will be someone who will keep the vision of the Steering Council in the working group and have the same rights as a member of the working group. This is only for teams and is only optional.
   - **Every working group should have at least one active Board member**. It's best if you already know who this is. It's OK if you don't, but if nobody from the Board volunteers, we can't create your working group. We'll refer to this person as the WG's "Board Liaison". A Board Liason is optional for teams and required for working groups.
