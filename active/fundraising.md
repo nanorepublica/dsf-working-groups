@@ -17,7 +17,7 @@ Delegated responsibilities:
 - Management of the djangoproject.com website content and other marketing collateral relating to fundraising
 
 
-## Initial membership
+## Membership
 
 - Chair: Thibaud Colas
 - Co-Chair: Priya Pahwa
