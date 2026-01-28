@@ -15,7 +15,7 @@ The duties of the working group are:
 - Run or support djangoproject.com sessions in DjangoCon sprints.
 - Chair, Co-Chair and Board Liaison can sign off on new features.
 
-## Initial membership
+## Membership
 
 - Chair: Sarah Abderemane
 - Co-Chair: Saptak Sengupta
