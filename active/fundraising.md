@@ -25,11 +25,12 @@ Delegated responsibilities:
 - Other members:
   - Tom Carrick
   - Sarah Abderemane
-  - Stephanie Goulet
   - Chris Adams
   - Catherine Holmes
   - Abigail Afi Gbadago
   - Eliana Rosselli
+  - Ryan Cheley
+  - Jeff Triplett
 
 ## Future membership
 
