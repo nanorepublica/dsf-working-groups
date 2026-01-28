@@ -31,7 +31,7 @@ Actions to take back to the DSF Board for votes:
 - Proposal to have a new social media profile on a platform.
 - Proposal to retire a social media profile from a platform.
 
-## Initial membership
+## Membership
 
 - Chair: Benjamin Balder Bach
 - Co-Chair: Bhuvnesh Sharma 
