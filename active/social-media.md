@@ -35,12 +35,15 @@ Actions to take back to the DSF Board for votes:
 
 - Chair: Benjamin Balder Bach
 - Co-Chair: Bhuvnesh Sharma 
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Thibaud Colas
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Priya Pahwa
 - Other members:
   - Cory Zue
   - Jason Judkins
   - Sarah Boyce
   - Sarah Abderemane
+  - Thibaud Colas
+  - Lidya Kefelegn
+  - Nischal Lamichhane
 
 ## Future membership
 
