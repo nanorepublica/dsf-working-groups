@@ -13,7 +13,7 @@ Please link any relevant documentation.
 - Which actions will the team/WG take back to the Board for votes, if any?
 - Which actions will the team/WG take back to the Steering Council for votes, if any?
 
-## Initial membership
+## Membership
 
 - Chair:
 - Co-Chair:

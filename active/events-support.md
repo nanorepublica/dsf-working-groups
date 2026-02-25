@@ -18,7 +18,7 @@ For DjangoCon events, the working group will:
 - Work with DjangoCon Africa organizers to make this event sustainable.
 - Work with the Social Media Working Group to promote events
 
-## Initial membership
+## Membership
 
 The group has a small initial membership, with the goal of expanding to 7-10 members able to represent
 

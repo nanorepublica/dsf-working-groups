@@ -6,7 +6,7 @@ Supports organizers of DjangoCon Europe.
 
 Delegated responsibilities TBD.
 
-## Initial membership
+## Membership
 
 - Chair: Tobias Kunze
 - Co-Chair: Raphael Michel

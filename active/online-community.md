@@ -37,7 +37,7 @@ With regards to Django Software Foundation responsibilities and resources, the m
   - A single member may not have Administrator Privileges on all platforms.
   - Each platform has a minimum of two members with Administrator Privileges.
 
-## Initial membership
+## Membership
 
 - Chair: Andrew Miller
 - Co-Chair: Ben Cardy

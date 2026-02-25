@@ -10,7 +10,7 @@ Write a paragraph or a few bullet points describing the WG here.
 - What actions are you proposing the WG be allowed to take directly?
 - Which actions will the WG take back to the Board for votes?
 
-## Initial membership
+## Membership
 
 - Chair:
 - Co-Chair:
