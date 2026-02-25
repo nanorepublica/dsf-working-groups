@@ -37,14 +37,14 @@ With regards to Django Software Foundation responsibilities and resources, the m
   - A single member may not have Administrator Privileges on all platforms.
   - Each platform has a minimum of two members with Administrator Privileges.
 
-## Initial membership
+## Membership
 
-- Chair: Andrew Miller
-- Co-Chair: Ben Cardy
-- Board Liaison: Tom Carrick
-- CoC Liaison: Dan Ryan
+- Chair: Andrew Miller (nanorepublica)
+- Co-Chair: Ben Cardy (benbacardi)
+- Board Liaison: Tom Carrick (forum: tom, discord: wynne)
+- CoC Liaison: Dan Ryan (discord: dryan77)
 - Other members:
-  - Natalia Bidart
+  - Natalia Bidart (nessita)
 
 
 ## Future membership

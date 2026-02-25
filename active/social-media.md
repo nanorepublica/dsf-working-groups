@@ -31,16 +31,19 @@ Actions to take back to the DSF Board for votes:
 - Proposal to have a new social media profile on a platform.
 - Proposal to retire a social media profile from a platform.
 
-## Initial membership
+## Membership
 
 - Chair: Benjamin Balder Bach
 - Co-Chair: Bhuvnesh Sharma 
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Thibaud Colas
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Priya Pahwa
 - Other members:
   - Cory Zue
   - Jason Judkins
   - Sarah Boyce
   - Sarah Abderemane
+  - Thibaud Colas
+  - Lidya Kefelegn
+  - Nischal Lamichhane
 
 ## Future membership
 
